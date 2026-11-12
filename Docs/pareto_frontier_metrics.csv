@@ -1,0 +1,3 @@
+case_study,surrogate_predicted_HV,surrogate_resimulated_HV,bruteforce_grid_HV,max_achievable_CNR_resim,frontier_mean_CNR_err_pct
+Case A: Thin Aluminium (8.0 mm Cylinder),3115.1166619311075,3087.610783211587,3108.451381733975,29.39024000035402,4.399879584244743
+Case B: Thick Steel (15.0 mm Cylinder),686.0395473016929,670.47097636887,668.7770490814163,6.9722685106941915,3.623771863994276
