@@ -12,6 +12,7 @@ This project implements a complete physics-simulation-driven machine learning an
 ---
 
 ## 2. Complete Directory Structure
+* **Trained Model:** [Download trained_surrogates_bundle.pkl (185 MB)](https://drive.google.com/drive/folders/1NGQMSgaMFfxDRuMsaroEPRY8yyH68td3?usp=drive_link)
 - `cws_project/`
   - `Code/ct_simulator.py` (Core polychromatic forward simulator module)
   - `Code/Demo_Worked_Recommendation.ipynb` (Standalone worked inverse-recommendation demo notebook)
@@ -24,7 +25,7 @@ This project implements a complete physics-simulation-driven machine learning an
   - `Data/Testing/test_data.csv` (15% in-distribution test split, 441 valid rows)
   - `Data/Extrapolation/extrapolation_test_data.csv` (Out-of-distribution test set, 397 valid rows)
   - `Data/Slices/` (54 representative $128 \times 128$ float32 `.npy` reconstructed slices)
-  - `Models/trained_surrogates_bundle.pkl` (Fitted scalers, XGB, RF, MLP, GP & Starvation Classifier)
+  - `Models/trained_surrogates_bundle.pkl`[From the downloaded folder via link] (Fitted scalers, XGB, RF, MLP, GP & Starvation Classifier)
   - `Figures/` (8 publication-ready 300-DPI PNG figures, `fig01` through `fig08`)
   - `Docs/` (Evaluation metrics, sensitivity, inverse validation, and Pareto CSV tables)
   - `README.md` (Master documentation file)
